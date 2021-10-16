@@ -44,7 +44,7 @@ final class Helper: NSObject {
         return newList
     }
 
-    func printLinkedList(with list: Node) {
+    func printLinkedList(with list: Node?) {
         print("list: \(convertListToInt(with: list))")
     }
 }
