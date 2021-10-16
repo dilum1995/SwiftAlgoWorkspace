@@ -10,11 +10,11 @@ This repository contains swift solutions to algorithms tests from various platfo
 
 
 ### Other resources to improve your algorithm knowledge
-[Data Structures and Algorithms]()
-[500 Data Structures and Algorithms]()
-[500+ Data Structures & Algorithm Practice]()
-[Top 10 Algos in Interview Questions]()
-[Big-O Cheat Sheet]()
-[Coursera - Algorithms, Part 1]()
-[Coursera - Algorithms, Part 2]()
+- [Data Structures and Algorithms]()
+- [500 Data Structures and Algorithms]()
+- [500+ Data Structures & Algorithm Practice]()
+- [Top 10 Algos in Interview Questions]()
+- [Big-O Cheat Sheet]()
+- [Coursera - Algorithms, Part 1]()
+- [Coursera - Algorithms, Part 2]()
 
