@@ -13,7 +13,7 @@
 		E4A68890271B70AC001E19A9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4A6888E271B70AC001E19A9 /* Main.storyboard */; };
 		E4A68892271B70AF001E19A9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E4A68891271B70AF001E19A9 /* Assets.xcassets */; };
 		E4A68895271B70AF001E19A9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E4A68893271B70AF001E19A9 /* LaunchScreen.storyboard */; };
-		E4A6889D271B70BE001E19A9 /* Node.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A6889C271B70BE001E19A9 /* Node.swift */; };
+		E4A6889D271B70BE001E19A9 /* ListNode.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A6889C271B70BE001E19A9 /* ListNode.swift */; };
 		E4A688A0271B7217001E19A9 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = E4A6889F271B7217001E19A9 /* Helper.swift */; };
 /* End PBXBuildFile section */
 
@@ -26,7 +26,7 @@
 		E4A68891271B70AF001E19A9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E4A68894271B70AF001E19A9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E4A68896271B70AF001E19A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E4A6889C271B70BE001E19A9 /* Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Node.swift; sourceTree = "<group>"; };
+		E4A6889C271B70BE001E19A9 /* ListNode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListNode.swift; sourceTree = "<group>"; };
 		E4A6889F271B7217001E19A9 /* Helper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -64,7 +64,7 @@
 				E4A68888271B70AC001E19A9 /* AppDelegate.swift */,
 				E4A6888A271B70AC001E19A9 /* SceneDelegate.swift */,
 				E4A6888C271B70AC001E19A9 /* ViewController.swift */,
-				E4A6889C271B70BE001E19A9 /* Node.swift */,
+				E4A6889C271B70BE001E19A9 /* ListNode.swift */,
 				E4A6888E271B70AC001E19A9 /* Main.storyboard */,
 				E4A68891271B70AF001E19A9 /* Assets.xcassets */,
 				E4A68893271B70AF001E19A9 /* LaunchScreen.storyboard */,
@@ -156,7 +156,7 @@
 				E4A68889271B70AC001E19A9 /* AppDelegate.swift in Sources */,
 				E4A688A0271B7217001E19A9 /* Helper.swift in Sources */,
 				E4A6888B271B70AC001E19A9 /* SceneDelegate.swift in Sources */,
-				E4A6889D271B70BE001E19A9 /* Node.swift in Sources */,
+				E4A6889D271B70BE001E19A9 /* ListNode.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

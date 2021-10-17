@@ -7,19 +7,20 @@
 
 import Foundation
 
-public class Node {
+public class ListNode {
     public var val: Int
-    public var next: Node?
+    public var next: ListNode?
     public init() { self.val = 0; self.next = nil; }
     public init(_ val: Int) { self.val = val; self.next = nil; }
-    public init(_ val: Int, _ next: Node?) { self.val = val; self.next = next; }
-    
+    public init(_ val: Int, _ next: ListNode?) { self.val = val; self.next = next; }
+}
+
+extension ListNode {
     func appendToTail(val: Int){
         if next != nil {
             next?.appendToTail(val: val)
         } else {
-            next = Node(val)
+            next = ListNode(val)
         }
     }
-    
 }
